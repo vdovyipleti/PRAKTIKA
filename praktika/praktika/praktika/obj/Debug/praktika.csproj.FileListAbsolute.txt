@@ -1,0 +1,45 @@
+D:\study\prakrika2\praktika\praktika\bin\Debug\praktika.exe.config
+D:\study\prakrika2\praktika\praktika\bin\Debug\praktika.exe
+D:\study\prakrika2\praktika\praktika\bin\Debug\praktika.pdb
+D:\study\prakrika2\praktika\praktika\obj\Debug\praktika.csproj.AssemblyReference.cache
+D:\study\prakrika2\praktika\praktika\obj\Debug\praktika.Form1.resources
+D:\study\prakrika2\praktika\praktika\obj\Debug\praktika.Properties.Resources.resources
+D:\study\prakrika2\praktika\praktika\obj\Debug\praktika.csproj.GenerateResource.cache
+D:\study\prakrika2\praktika\praktika\obj\Debug\praktika.csproj.CoreCompileInputs.cache
+D:\study\prakrika2\praktika\praktika\obj\Debug\praktika.exe
+D:\study\prakrika2\praktika\praktika\obj\Debug\praktika.pdb
+D:\study\prakrika2\praktika\praktika\bin\Debug\Database1.mdf
+D:\study\prakrika2\praktika\praktika\bin\Debug\Database1_log.ldf
+D:\study\prakrika2\praktika\praktika\obj\Debug\praktika.Form2.resources
+C:\Users\429192-23\Desktop\praktika\praktika\bin\Debug\Database1.mdf
+C:\Users\429192-23\Desktop\praktika\praktika\bin\Debug\Database1_log.ldf
+C:\Users\429192-23\Desktop\praktika\praktika\bin\Debug\Database2.mdf
+C:\Users\429192-23\Desktop\praktika\praktika\bin\Debug\Database2_log.ldf
+C:\Users\429192-23\Desktop\praktika\praktika\bin\Debug\praktika.exe.config
+C:\Users\429192-23\Desktop\praktika\praktika\bin\Debug\praktika.exe
+C:\Users\429192-23\Desktop\praktika\praktika\bin\Debug\praktika.pdb
+C:\Users\429192-23\Desktop\praktika\praktika\obj\Debug\praktika.csprojAssemblyReference.cache
+C:\Users\429192-23\Desktop\praktika\praktika\obj\Debug\praktika.Form1.resources
+C:\Users\429192-23\Desktop\praktika\praktika\obj\Debug\praktika.Form2.resources
+C:\Users\429192-23\Desktop\praktika\praktika\obj\Debug\praktika.Properties.Resources.resources
+C:\Users\429192-23\Desktop\praktika\praktika\obj\Debug\praktika.csproj.GenerateResource.cache
+C:\Users\429192-23\Desktop\praktika\praktika\obj\Debug\praktika.csproj.CoreCompileInputs.cache
+C:\Users\429192-23\Desktop\praktika\praktika\obj\Debug\praktika.exe
+C:\Users\429192-23\Desktop\praktika\praktika\obj\Debug\praktika.pdb
+H:\Новая папка\praktika\praktika\bin\Debug\Database1.mdf
+H:\Новая папка\praktika\praktika\bin\Debug\Database1_log.ldf
+H:\Новая папка\praktika\praktika\bin\Debug\Database2.mdf
+H:\Новая папка\praktika\praktika\bin\Debug\Database2_log.ldf
+H:\Новая папка\praktika\praktika\bin\Debug\praktika.exe.config
+H:\Новая папка\praktika\praktika\bin\Debug\praktika.exe
+H:\Новая папка\praktika\praktika\bin\Debug\praktika.pdb
+H:\Новая папка\praktika\praktika\obj\Debug\praktika.csprojAssemblyReference.cache
+H:\Новая папка\praktika\praktika\obj\Debug\praktika.Form1.resources
+H:\Новая папка\praktika\praktika\obj\Debug\praktika.Form2.resources
+H:\Новая папка\praktika\praktika\obj\Debug\praktika.Properties.Resources.resources
+H:\Новая папка\praktika\praktika\obj\Debug\praktika.csproj.GenerateResource.cache
+H:\Новая папка\praktika\praktika\obj\Debug\praktika.csproj.CoreCompileInputs.cache
+H:\Новая папка\praktika\praktika\obj\Debug\praktika.exe
+H:\Новая папка\praktika\praktika\obj\Debug\praktika.pdb
+H:\Новая папка\praktika\praktika\obj\Debug\praktika.Form3.resources
+H:\Новая папка\praktika\praktika\obj\Debug\praktika.Form4.resources
